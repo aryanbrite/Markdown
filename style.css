@@ -21,9 +21,10 @@ body{
     height: 84vh;
     margin-top:4vh;
     margin-bottom: 4vh;
-    background-color: antiquewhite;
+    background-color: white;
     border-radius: 12px;
     padding-left: 10px;
+    padding-right: 10px;
     width: 50%;
     font-family: ui-monospace,
              SFMono-Regular,
@@ -39,9 +40,10 @@ body{
     height: 84vh;
     margin-top:4vh;
     margin-bottom: 4vh;
-    background-color: antiquewhite;
+    background-color: white;
     border-radius: 12px;
     padding-left: 10px;
+    padding-right: 10px;
     width: 50%;
     font-family: -apple-system,
              BlinkMacSystemFont,
@@ -85,4 +87,16 @@ nav h3 {
     #prev {
         width: 100%;
     }
+}
+
+input {
+    margin: 0;
+    width: 100%;
+    
+    
+}
+
+input:focus {
+    border: 0;
+   
 }
