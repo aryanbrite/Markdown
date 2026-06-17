@@ -88,15 +88,8 @@ nav h3 {
         width: 100%;
     }
 }
-
-input {
-    margin: 0;
-    width: 100%;
-    
-    
-}
-
-input:focus {
-    border: 0;
-   
+textarea {
+    width: 99%;
+    height: 85%;
+    resize: none;
 }
