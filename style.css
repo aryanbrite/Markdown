@@ -3,16 +3,35 @@ body{
     background-image: url("https://i.pinimg.com/1200x/e8/54/93/e8549363dad6cd85604fc4f74d9bfced.jpg");
     margin: 0;
 }
-#main {
+
+.main {
+    display: flex;
+    gap:0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    gap: 10px;
+}
+
+#mark {
     border: 3px solid black;
     height: 84vh;
     margin-top:4vh;
     margin-bottom: 4vh;
-    margin-left: 5%;
-    margin-right: 5%;
     background-color: antiquewhite;
     border-radius: 12px;
     padding-left: 10px;
+    width: 50%;
+    
+}
+#prev {
+    border: 3px solid black;
+    height: 84vh;
+    margin-top:4vh;
+    margin-bottom: 4vh;
+    background-color: antiquewhite;
+    border-radius: 12px;
+    padding-left: 10px;
+    width: 50%;
     
 }
 nav {
