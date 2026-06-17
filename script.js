@@ -1,3 +1,4 @@
 console.log("hellow");
-editor = document.getElementById("editor");
-editor.addEventListener("input",function(){console.log(editor.value)});
+let editor = document.getElementById("editor");
+let prev = document.getElementById("prev")
+editor.addEventListener("input",function(){prev.innerText=editor.value});
