@@ -1,0 +1,14 @@
+
+body{
+    background-image: url("https://i.pinimg.com/736x/9a/4b/f6/9a4bf6fbbac4f7a15b0876f9d3a3f6bd.jpg");
+    margin: 0;
+}
+#main {
+    border: 5px solid black;
+    height: 84vh;
+    margin-top:7vh;
+    margin-bottom: 7vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
