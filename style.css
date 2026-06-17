@@ -1,6 +1,6 @@
 
 body{
-    background-image: url("https://i.pinimg.com/1200x/5e/e4/fb/5ee4fb3a39d3ff7ef90d56ef95f4f722.jpg");
+    background-image: url("https://i.pinimg.com/1200x/e8/54/93/e8549363dad6cd85604fc4f74d9bfced.jpg");
     margin: 0;
 }
 #main {
@@ -17,9 +17,17 @@ body{
 }
 nav {
     padding-left: 5%;
+    background-color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 248, 231);
 }
 
 h3 {
-    font-family: "JetBrains Mono", monospace;
+    font-family: "Fredoka", sans-serif;
+    color: #ff853f;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
     
 }
