@@ -1,4 +1,8 @@
 console.log("hellow");
 let editor = document.getElementById("editor");
 let prev = document.getElementById("prev")
-editor.addEventListener("input",function(){prev.innerHTML=marked.parse(editor.value)});
+editor.value = localStorage.getItem('markdown')
+prev.innerHTML=marked.parse(editor.value);
+editor.addEventListener("input",function(){prev.innerHTML=marked.parse(editor.value);
+    localStorage.setItem('markdown',editor.value)
+});
