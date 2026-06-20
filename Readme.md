@@ -19,13 +19,14 @@
 </p>
 
 > [!IMPORTANT]
-> **AI Usage:** No AI coding assistants like Copilot, Cursor or Claude Code were used to write or edit the code for this project. ChatGPT was used only for occasional conceptual guidance and CSS references but not directly copy pasted. A bit of chatgpt I used to know about javascript libraries and some "how can I ?" questions were asked.
+> **AI Usage:** : No AI coding assistants like Copilot, Cursor or Claude Code were used to write or edit the code for this project. ChatGPT was used only for occasional conceptual guidance and CSS references but not directly copy pasted. A bit of chatgpt I used to know about javascript libraries and some "how can I ?" questions were asked.
+
 
 ## Screenshot
 ![screenshot](https://cdn.hackclub.com/019ee4a9-9346-713d-822a-4018c73c542b/image%20(33).png)
 
 ## Motivation
-    There was only one markdown previewer when i used to search that on google. its not good for the users to only have one option that is my i made one too. I intent to rank this on google and compete with that markdown previewer as a no ad, open source alternative.
+There was only one markdown previewer when i used to search that on google. its not good for the users to only have one option that is my i made one too. I intent to rank this on google and compete with that markdown previewer as a no ad, open source alternative.
 
 ## Tech Stack
 - HTML
