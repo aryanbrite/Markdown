@@ -79,6 +79,24 @@ nav h3 {
     gap: 10px;
 }
 
+#gith {
+        height:80px;
+        position: fixed;
+        top: 0;
+        right: 0;
+    }
+    
+#corner {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 @media(max-width:1000px){
     .main {
         flex-direction: column;
@@ -93,7 +111,6 @@ nav h3 {
         width: 90%;
         margin: auto;
     }
-    
     
 }
 textarea {
