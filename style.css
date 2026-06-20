@@ -55,6 +55,11 @@ body{
     overflow-y: auto;
     
 }
+
+#prev img {
+    max-width: 100%;
+}
+
 nav {
     padding-left: 5%;
     background-color: white;
@@ -138,6 +143,8 @@ textarea {
     width: 99%;
     height: 95%;
     resize: none;
+    outline: none;
+    border: none;
     font-family: -apple-system,
              BlinkMacSystemFont,
              "Segoe UI",
