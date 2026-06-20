@@ -19,7 +19,7 @@
 </p>
 
 > [!IMPORTANT]
-> **AI Usage:** : No AI coding assistants like Copilot, Cursor or Claude Code were used to write or edit the code for this project. ChatGPT was used only for occasional conceptual guidance and CSS references but not directly copy pasted. A bit of chatgpt I used to know about javascript libraries and some "how can I ?" questions were asked.
+> **AI Usage:** : No AI coding assistants like Copilot, Cursor or Claude Code were used to write or edit the code for this project. ChatGPT was used only for occasional conceptual guidance and CSS references but not directly copy pasted except sw.js which is a template so that the app can run without internet when installed. A bit of chatgpt I used to know about javascript libraries and some "how can I ?" questions were asked.
 
 
 ## Screenshot
